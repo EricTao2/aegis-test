@@ -1,0 +1,76 @@
+2019-02-20 15:59:01,741 [main] INFO  c.g.e.aegistest.AegisTestApplication 50 - Starting AegisTestApplication on dxkj-qt-taojx with PID 16480 (started by 陶瑾轩 in D:\个人文件\aegis-test)
+2019-02-20 15:59:01,745 [main] INFO  c.g.e.aegistest.AegisTestApplication 675 - No active profile set, falling back to default profiles: default
+2019-02-20 15:59:03,570 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate 244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-20 15:59:03,572 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate 126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-20 15:59:03,612 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate 182 - Finished Spring Data repository scanning in 13ms. Found 0 repository interfaces.
+2019-02-20 15:59:04,813 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 90 - Tomcat initialized with port(s): 8080 (http)
+2019-02-20 15:59:04,823 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-20 15:59:04,827 [main] INFO  o.a.catalina.core.StandardService 173 - Starting service [Tomcat]
+2019-02-20 15:59:04,827 [main] INFO  o.a.catalina.core.StandardEngine 173 - Starting Servlet Engine: Apache Tomcat/9.0.12
+2019-02-20 15:59:04,840 [main] INFO  o.a.c.core.AprLifecycleListener 173 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Development Programs\JDK8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;D:\app\DAMS\product\12.1.0\dbhome_1\bin;D:\Dev-database\oracle\product\12.1.0\dbhome_1\bin;D:\Dev-database\Oracle12C\product\12.1.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\Development Programs\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Development Programs\TortoiseSVN\bin;D:\Development Programs\nodejs\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\能讯-陶瑾轩\AppData\Local\Microsoft\WindowsApps;D:\Development Programs\JDK8\bin;D:\Development Programs\JDK8\jre\bin;C:\Users\能讯-陶瑾轩\AppData\Local\GitHubDesktop\bin;D:\Development Programs\apache-maven-3.5.4\bin;;C:\Users\能讯-陶瑾轩\AppData\Local\Microsoft\WindowsApps;C:\Users\能讯-陶瑾轩\AppData\Roaming\npm;.]
+2019-02-20 15:59:05,605 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring embedded WebApplicationContext
+2019-02-20 15:59:05,606 [main] INFO  o.s.web.context.ContextLoader 285 - Root WebApplicationContext: initialization completed in 3771 ms
+2019-02-20 15:59:05,700 [main] INFO  o.s.b.w.s.ServletRegistrationBean 186 - Servlet dispatcherServlet mapped to [/]
+2019-02-20 15:59:05,706 [main] INFO  o.s.b.w.s.FilterRegistrationBean 248 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-20 15:59:05,707 [main] INFO  o.s.b.w.s.FilterRegistrationBean 248 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-20 15:59:05,707 [main] INFO  o.s.b.w.s.FilterRegistrationBean 248 - Mapping filter: 'formContentFilter' to: [/*]
+2019-02-20 15:59:05,707 [main] INFO  o.s.b.w.s.FilterRegistrationBean 248 - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-20 15:59:06,979 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor 171 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-20 15:59:07,401 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Starting ProtocolHandler ["http-nio-8080"]
+2019-02-20 15:59:07,410 [main] INFO  o.a.tomcat.util.net.NioSelectorPool 173 - Using a shared selector for servlet write/read
+2019-02-20 15:59:07,424 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 204 - Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-20 15:59:07,426 [main] INFO  c.g.e.aegistest.AegisTestApplication 59 - Started AegisTestApplication in 6.437 seconds (JVM running for 11.344)
+2019-02-20 16:08:30,879 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-20 16:08:30,879 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet 521 - Initializing Servlet 'dispatcherServlet'
+2019-02-20 16:08:30,909 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet 543 - Completed initialization in 30 ms
+2019-02-20 16:26:29,152 [main] INFO  c.g.e.aegistest.AegisTestApplication 50 - Starting AegisTestApplication on dxkj-qt-taojx with PID 16980 (started by 陶瑾轩 in D:\个人文件\aegis-test)
+2019-02-20 16:26:29,155 [main] INFO  c.g.e.aegistest.AegisTestApplication 675 - No active profile set, falling back to default profiles: default
+2019-02-20 16:26:30,307 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate 244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-20 16:26:30,310 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate 126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-20 16:26:30,350 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate 182 - Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2019-02-20 16:26:31,305 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 90 - Tomcat initialized with port(s): 8080 (http)
+2019-02-20 16:26:31,316 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-20 16:26:31,320 [main] INFO  o.a.catalina.core.StandardService 173 - Starting service [Tomcat]
+2019-02-20 16:26:31,321 [main] INFO  o.a.catalina.core.StandardEngine 173 - Starting Servlet Engine: Apache Tomcat/9.0.12
+2019-02-20 16:26:31,328 [main] INFO  o.a.c.core.AprLifecycleListener 173 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Development Programs\JDK8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;D:\app\DAMS\product\12.1.0\dbhome_1\bin;D:\Dev-database\oracle\product\12.1.0\dbhome_1\bin;D:\Dev-database\Oracle12C\product\12.1.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\Development Programs\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Development Programs\TortoiseSVN\bin;D:\Development Programs\nodejs\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\能讯-陶瑾轩\AppData\Local\Microsoft\WindowsApps;D:\Development Programs\JDK8\bin;D:\Development Programs\JDK8\jre\bin;C:\Users\能讯-陶瑾轩\AppData\Local\GitHubDesktop\bin;D:\Development Programs\apache-maven-3.5.4\bin;;C:\Users\能讯-陶瑾轩\AppData\Local\Microsoft\WindowsApps;C:\Users\能讯-陶瑾轩\AppData\Roaming\npm;.]
+2019-02-20 16:26:31,969 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring embedded WebApplicationContext
+2019-02-20 16:26:31,969 [main] INFO  o.s.web.context.ContextLoader 285 - Root WebApplicationContext: initialization completed in 2740 ms
+2019-02-20 16:26:32,059 [main] INFO  o.s.b.w.s.ServletRegistrationBean 186 - Servlet dispatcherServlet mapped to [/]
+2019-02-20 16:26:32,063 [main] INFO  o.s.b.w.s.FilterRegistrationBean 248 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-20 16:26:32,063 [main] INFO  o.s.b.w.s.FilterRegistrationBean 248 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-20 16:26:32,064 [main] INFO  o.s.b.w.s.FilterRegistrationBean 248 - Mapping filter: 'formContentFilter' to: [/*]
+2019-02-20 16:26:32,064 [main] INFO  o.s.b.w.s.FilterRegistrationBean 248 - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-20 16:26:33,164 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor 171 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-20 16:26:33,590 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Starting ProtocolHandler ["http-nio-8080"]
+2019-02-20 16:26:33,601 [main] INFO  o.a.tomcat.util.net.NioSelectorPool 173 - Using a shared selector for servlet write/read
+2019-02-20 16:26:33,615 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 204 - Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-20 16:26:33,617 [main] INFO  c.g.e.aegistest.AegisTestApplication 59 - Started AegisTestApplication in 5.115 seconds (JVM running for 8.868)
+2019-02-20 16:27:18,848 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-20 16:27:18,849 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet 521 - Initializing Servlet 'dispatcherServlet'
+2019-02-20 16:27:18,880 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet 543 - Completed initialization in 31 ms
+2019-02-20 16:27:23,991 [http-nio-8080-exec-4] INFO  c.g.e.a.a.a.p.i.CheckReqNoProcessor 60 - 开始重放攻击检查: IpAdrress=0:0:0:0:0:0:0:1
+2019-02-20 16:49:00,487 [main] INFO  c.g.e.aegistest.AegisTestApplication 50 - Starting AegisTestApplication on dxkj-qt-taojx with PID 1032 (started by 陶瑾轩 in D:\个人文件\aegis-test)
+2019-02-20 16:49:00,503 [main] INFO  c.g.e.aegistest.AegisTestApplication 675 - No active profile set, falling back to default profiles: default
+2019-02-20 16:49:01,851 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate 244 - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-02-20 16:49:01,853 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate 126 - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-02-20 16:49:01,945 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate 182 - Finished Spring Data repository scanning in 18ms. Found 0 repository interfaces.
+2019-02-20 16:49:03,311 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 90 - Tomcat initialized with port(s): 8080 (http)
+2019-02-20 16:49:03,324 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-20 16:49:03,328 [main] INFO  o.a.catalina.core.StandardService 173 - Starting service [Tomcat]
+2019-02-20 16:49:03,329 [main] INFO  o.a.catalina.core.StandardEngine 173 - Starting Servlet Engine: Apache Tomcat/9.0.12
+2019-02-20 16:49:03,341 [main] INFO  o.a.c.core.AprLifecycleListener 173 - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Development Programs\JDK8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;D:\app\DAMS\product\12.1.0\dbhome_1\bin;D:\Dev-database\oracle\product\12.1.0\dbhome_1\bin;D:\Dev-database\Oracle12C\product\12.1.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\Development Programs\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Development Programs\TortoiseSVN\bin;D:\Development Programs\nodejs\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\能讯-陶瑾轩\AppData\Local\Microsoft\WindowsApps;D:\Development Programs\JDK8\bin;D:\Development Programs\JDK8\jre\bin;C:\Users\能讯-陶瑾轩\AppData\Local\GitHubDesktop\bin;D:\Development Programs\apache-maven-3.5.4\bin;;C:\Users\能讯-陶瑾轩\AppData\Local\Microsoft\WindowsApps;C:\Users\能讯-陶瑾轩\AppData\Roaming\npm;.]
+2019-02-20 16:49:04,095 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring embedded WebApplicationContext
+2019-02-20 16:49:04,096 [main] INFO  o.s.web.context.ContextLoader 285 - Root WebApplicationContext: initialization completed in 3542 ms
+2019-02-20 16:49:04,184 [main] INFO  o.s.b.w.s.ServletRegistrationBean 186 - Servlet dispatcherServlet mapped to [/]
+2019-02-20 16:49:04,188 [main] INFO  o.s.b.w.s.FilterRegistrationBean 248 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-02-20 16:49:04,189 [main] INFO  o.s.b.w.s.FilterRegistrationBean 248 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-02-20 16:49:04,189 [main] INFO  o.s.b.w.s.FilterRegistrationBean 248 - Mapping filter: 'formContentFilter' to: [/*]
+2019-02-20 16:49:04,189 [main] INFO  o.s.b.w.s.FilterRegistrationBean 248 - Mapping filter: 'requestContextFilter' to: [/*]
+2019-02-20 16:49:05,281 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor 171 - Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-20 16:49:05,854 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Starting ProtocolHandler ["http-nio-8080"]
+2019-02-20 16:49:05,865 [main] INFO  o.a.tomcat.util.net.NioSelectorPool 173 - Using a shared selector for servlet write/read
+2019-02-20 16:49:05,882 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 204 - Tomcat started on port(s): 8080 (http) with context path ''
+2019-02-20 16:49:05,885 [main] INFO  c.g.e.aegistest.AegisTestApplication 59 - Started AegisTestApplication in 6.258 seconds (JVM running for 10.84)
+2019-02-20 16:50:24,729 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-20 16:50:24,729 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet 521 - Initializing Servlet 'dispatcherServlet'
+2019-02-20 16:50:24,762 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet 543 - Completed initialization in 32 ms
